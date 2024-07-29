@@ -9,7 +9,7 @@ rule rtf_Kaba_jDoe
 {
 
 meta:
-    author = "@patrickrolsen"
+    author = "@patrickrolsen and some other guy"
     maltype = "APT.Kaba"
     filetype = "RTF"
     version = "0.1"
