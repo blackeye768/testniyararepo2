@@ -8,7 +8,7 @@ rule APT_DeputyDog_Fexel
 {
 
 meta:
-    author = "ThreatConnect Intelligence Research Team *changed* *changed*"
+    author = "ThreatConnect Intelligence Research Team *changed* *peso*"
 
 strings:
     $180 = "180.150.228.102" wide ascii
