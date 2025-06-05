@@ -17,7 +17,7 @@ rule Codoso_PlugX_3
 {
 
     meta:
-        description = "Detects Codoso APT PlugX Malware"
+        description = "Detects Codoso APT PlugX Malware. Hello from test branch."
         author = "Florian Roth"
         reference = "https://www.proofpoint.com/us/exploring-bergard-old-malware-new-tricks"
         date = "2016-01-30"
