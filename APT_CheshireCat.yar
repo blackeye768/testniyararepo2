@@ -16,7 +16,7 @@ rule CheshireCat_Sample2
 {
 
     meta:
-        description = "Auto-generated rule - file dc18850d065ff6a8364421a9c8f9dd5fcce6c7567f4881466cee00e5cd0c7aa8"
+        description = "Auto-generated rule - file dc18850d065ff6a8364421a9c8f9dd5fcce6c7567f4881466cee00e5cd0c7aa8 novi commit"
         author = "Florian Roth"
         reference = "https://malware-research.org/prepare-father-of-stuxnet-news-are-coming/"
         date = "2015-08-08"
